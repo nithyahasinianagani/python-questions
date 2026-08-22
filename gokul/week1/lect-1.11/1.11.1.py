@@ -10,3 +10,9 @@
 # print(u*t)
 # print(3.2*"gokul")
 #     ```
+coffee
+bread
+coffeebread
+error
+error
+error

@@ -5,3 +5,6 @@ a=s[0]
 b=s[7]
 
 #     ```
+a = s[1]
+b = s[3]
+print(int(a + b))

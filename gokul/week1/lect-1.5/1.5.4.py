@@ -3,3 +3,5 @@
 #     n=input()
 #     n=int(input())
 #     ```
+first is str
+second is int

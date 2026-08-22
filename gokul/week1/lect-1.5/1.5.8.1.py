@@ -8,4 +8,4 @@ place="sathy"
 
 # gokul of age 25 is from sathy
 
-
+print(f"{name} of age {age} is from {place}")

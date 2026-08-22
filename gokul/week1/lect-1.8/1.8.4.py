@@ -15,14 +15,14 @@ l=False
 m=True
 
     
-print(bool(a))
-print(bool(b))
-print(bool(c))
-print(bool(d))
-print(bool(e))
-print(bool(f))
-print(bool(g))
-print(bool(h))
+print(bool(a)) true
+print(bool(b))true
+print(bool(c))false
+print(bool(d))true
+print(bool(e))true
+print(bool(f))false
+print(bool(g))true
+print(bool(h))true
 print(bool(i))
 print(bool(j))
 print(bool(k))

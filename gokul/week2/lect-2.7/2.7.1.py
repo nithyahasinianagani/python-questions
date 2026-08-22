@@ -6,3 +6,7 @@ i=8
 print(x[i])
 print(x[-i])
 print(x[i+26])
+
+#i
+#s
+#indexerror since it is out of index

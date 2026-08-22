@@ -6,3 +6,6 @@
 #     print(type(l[2]))
 #     ```
 
+list
+30
+int

@@ -7,3 +7,7 @@
 #     print(a%b)
 #     print(a**b)
 #     ```
+30
+-10
+0
+10 to the power 20

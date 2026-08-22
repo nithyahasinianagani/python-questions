@@ -2,4 +2,6 @@
 
 # ```
 # print("hello","world")
+print("hello", "world","nithya", sep = ", ")
 # ```
+#ans: hello world

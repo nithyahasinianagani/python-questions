@@ -11,3 +11,13 @@
 #     print(not(Ture))
 #     print(not(False))
 #     ```
+True
+False
+True
+False
+True
+True
+False
+True
+False
+True

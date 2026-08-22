@@ -2,3 +2,5 @@
 
 # Conditional statements can be used. They will be introduced in the next week. But the challenge is to solve this problem without using conditional statements! As an interesting exercise, can you list down some words that follow this pattern?
 
+a = input()
+print(a[0] == a[-1])

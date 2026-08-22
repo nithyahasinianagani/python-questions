@@ -3,3 +3,12 @@
 
 
 # HINT : subtract current year from YOB
+
+a = int(input("YOB:"))
+b = 2026-a 
+print(b)
+
+if b>=18:
+    print("eligible")
+else:
+    print("not eligible")

@@ -6,3 +6,8 @@
 #     n=n/2
 #     print(type(n))
 #     print(n)
+
+<class 'int'>
+10
+<class 'float'>
+5.0

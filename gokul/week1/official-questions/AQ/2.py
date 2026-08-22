@@ -2,3 +2,6 @@
 # email address
 # annual income
 # number of days in a month
+str
+float
+int

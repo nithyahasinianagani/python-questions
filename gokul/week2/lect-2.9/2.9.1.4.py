@@ -15,3 +15,4 @@ if marks<60:
 else:
     print("none")
 
+#runs all if statements cause it satisfys all if conditions except last one

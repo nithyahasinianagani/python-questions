@@ -10,6 +10,15 @@ s="python"
 #     print(s[-6])
 #     print(s[-7])
 #     print(s[100])
-#     print(s[2:100])
+#     print(s[2:100]) #thon
 
 #     ```
+p
+n
+o
+h
+t
+y
+p 
+indexerror
+

@@ -9,4 +9,10 @@
     # print(l[1])
     # print(type(l[1]))
 #     ```
-
+list
+30
+int
+10
+str
+20.2
+float

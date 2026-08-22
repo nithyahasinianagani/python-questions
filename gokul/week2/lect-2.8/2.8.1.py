@@ -12,3 +12,8 @@ OUTPUT: 'not eligible'
 INPUT: 120000
 OUTPUT: 'eligible'
 '''
+x = int(input())
+if x>90000:
+    print("eligible")
+else:
+    print("not eligible")

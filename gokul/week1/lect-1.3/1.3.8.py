@@ -7,3 +7,4 @@
 # print["hello"]
 # print<"hello">
 # ```
+#ans: 1 and 2

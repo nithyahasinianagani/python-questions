@@ -7,3 +7,9 @@
 # print(n+2)
 # print(n+3)
 # ```
+if input is 1
+then
+1
+2
+4
+7

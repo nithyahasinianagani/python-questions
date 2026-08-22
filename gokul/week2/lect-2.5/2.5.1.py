@@ -2,3 +2,8 @@
 
 # print('it's a beautiful day') 
 # print("we are from "IIT Madras" Madras")
+
+error
+error
+print('it\'s a beautiful day')
+print("we are from \"IIT Madras\" Madras")

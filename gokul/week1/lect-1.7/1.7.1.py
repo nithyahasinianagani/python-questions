@@ -7,3 +7,7 @@
 #     print('r is of type:',type(r))
 #     print('s is of type:',type(s))
 #     ```
+
+n is of type int
+r is of type float
+s is of type str

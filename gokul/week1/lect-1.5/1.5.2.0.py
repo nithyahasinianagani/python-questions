@@ -7,3 +7,9 @@
 # print(n/2)
 # print(n-n)
 #     ```
+
+typeerror
+333
+3333
+typeerror
+typeerror

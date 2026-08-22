@@ -11,3 +11,13 @@
 #     print(7!=3)
 #     print(a=3)
 #     ```
+True
+False
+False
+False
+False
+False
+False
+True
+True
+error
