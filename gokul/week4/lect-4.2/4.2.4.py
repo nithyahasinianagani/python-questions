@@ -2,6 +2,6 @@
 
 l=[1,12,3,4,3,4]
 l.remove(12)
-print(l)
+print(l) #[1,3,4,3,4]
 l.remove(3)
-print(l)
+print(l) #[1,4,3,4]
