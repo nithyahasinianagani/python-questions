@@ -2,10 +2,11 @@
 for i in range(5):
     print(i, end=' ')
     
-for i in range(5):
-    print(i, a=' ')
+
     
 
 for i in range(5):
     print(i, end=3)
     
+
+#Type error
