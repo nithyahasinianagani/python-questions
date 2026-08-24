@@ -6,3 +6,6 @@ sorted(l)
 print(l)
 m.sort()
 print(m)
+
+#[1, 5, 2, 9, 3, 6]
+#[0, 1, 2, 3, 7, 9]

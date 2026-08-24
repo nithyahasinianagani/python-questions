@@ -4,3 +4,5 @@ print(l)
 
 
 # Try to understand why the first print is giving `None` and the second print is giving the `sorted list``
+
+# Python sorts the same list l. But .sort() returns None. instead use print(sorted(l))
