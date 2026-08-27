@@ -3,9 +3,9 @@
 x=5
 y=x
 x=10
-print(x,y)
+print(x,y) #10 5
 
 l1=[1,2,3]
-l2=l1
+l2=l1 
 l1[0]=40
-print(l1,l2)
+print(l1,l2)  [40,2,3] [40,2,3]

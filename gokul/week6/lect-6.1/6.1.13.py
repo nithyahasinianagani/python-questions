@@ -8,3 +8,7 @@ print(sys.getsizeof(x))
 print(sys.getsizeof(s))
 
 # Which of the two is more memory efficient? Why?
+
+
+List -- memory efficient, slower search
+Set -- more memory, faster search

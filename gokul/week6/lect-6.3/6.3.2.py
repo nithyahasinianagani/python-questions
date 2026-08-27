@@ -2,3 +2,15 @@
 
 
 x="dkashdhas!;'.//.-#$!@"
+
+
+def clean(text):
+    result = ""
+
+    for char in text:
+        if char.isalpha():
+            result += char
+
+    return result
+
+print(clean(x))

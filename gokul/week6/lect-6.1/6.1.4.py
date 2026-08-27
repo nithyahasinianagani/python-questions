@@ -3,7 +3,7 @@
 l=[1,2,3,4,5,6,7,8,9,10]
 
 def is_present(l,n):
-    pass
+    return n in l
 
 
 print(is_present(l,5)) # True

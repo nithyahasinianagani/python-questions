@@ -3,7 +3,7 @@ def add(x):
     return x
 
 x=5
-print(add(x))
-print(x)
+print(add(x)) #6
+print(x) #5
 
 # predict the output

@@ -5,3 +5,5 @@ print(t)
 # predict the output and explain the output
 
 # this property is called hashable.
+
+Although the tuple itself is immutable, the lists inside it are mutable 

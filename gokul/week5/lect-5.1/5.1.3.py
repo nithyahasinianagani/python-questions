@@ -6,3 +6,12 @@
 
 # ip : discount(200,20)
 # op: 160
+
+acc_cost = int(input())
+
+dis_cost = int(input())
+
+def discount(acc_cost, dis_cost):
+    print(acc_cost - dis_cost)
+
+discount(acc_cost, dis_cost)

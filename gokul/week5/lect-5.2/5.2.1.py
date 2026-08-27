@@ -4,3 +4,7 @@ create three functions that take a list as input
 2) to return the last element of the list
 3) to return the sum of values returned from the above two functions 
 '''
+
+def first_elem(lst):
+    if not lst:
+        return 

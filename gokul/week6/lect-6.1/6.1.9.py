@@ -4,8 +4,8 @@ l=list(range(10000000))
 s=set(range(10000000))
 
 x=-1
-print(x in l)
-print(x in s)
+print(x in l) #False
+print(x in s) #False
 
 
 
